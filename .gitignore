@@ -1,0 +1,58 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Configuration files
+*.env
+
+# Pytest
+.cache/
+
+# Distribution / packaging
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+*.tar.gz
+*.deb
+*.rpm
+*.dmg
+
+# Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Notes and Transcripts (Do not commit these files)
+notes.txt
+raw_transcripts.txt
+*.wav
